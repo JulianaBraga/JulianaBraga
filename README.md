@@ -1,9 +1,9 @@
 Hi there 👋
 - :smile: Meu nome é Juliana Braga / I'm Juliana Braga 
 - :girl: Tenho 18 anos / I'm 18 years old 
-- :computer: Sou estudante de Desenvolvimento Web na Trybe / I'm a Development Web studant at Trybe
-- :books: Curso Ciência da Informação na Universidade Federal de Santa Catarina (USFC) / 
-- :eyes:	Tenho interesse em diversas tecnologias -Blockchain, Intelegência Artificial, Machine Learning, entre outras. / I have interest in many technologies like Blockchain, Artificial Intelligence etc. 
+- :computer: Sou estudante de Desenvolvimento Web na Trybe / I'm a Development Web student at Trybe
+- :books: Estudante de Ciência da Informação na Universidade Federal de Santa Catarina (USFC) / I'm a student of Information Science graduation in 
+- :eyes:	Tenho interesse em diversas tecnologias como Blockchain, Intelegência Artificial, Aprendizagem de Máquina, entre outras. / I have interest in many technologies like Blockchain, Artificial Intelligence, Machine Learning etc. 
 - 📫 Meu contato / My contact: juliana4braga@gmail.com
 
 <!--
