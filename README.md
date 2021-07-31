@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi there 👋
+- :smile: Meu nome é Juliana Braga
+- :eyes:	Tenho interesse em diversas tecnologias -Blockchain, Intelegência Artificial entre outras.
+- 📫 Contato: juliana4braga@gmail.com
 
 <!--
 **JulianaBraga/JulianaBraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
