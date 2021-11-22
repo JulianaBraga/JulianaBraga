@@ -6,6 +6,12 @@ Hi there 👋
 - :eyes:	Tenho interesse em diversas tecnologias como Blockchain, Intelegência Artificial, Aprendizagem de Máquina, entre outras. / I have interest in many technologies like Blockchain, Artificial Intelligence, Machine Learning etc. 
 - 📫 Meu contato / My contact: juliana4braga@gmail.com
 
+<div align="center">
+  <a href="https://github.com/JulianaBraga">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JulianaBraga&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaBraga&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
@@ -21,7 +27,6 @@ Hi there 👋
 <div align="center">
   <a href="https://www.instagram.com/ju_bbraga/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/julianabbraga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:juliana4braga@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <!--
