@@ -6,12 +6,6 @@ Hi there 👋
 - :eyes:	Tenho interesse em diversas tecnologias como Blockchain, Intelegência Artificial, Aprendizagem de Máquina, entre outras. / I have interest in many technologies like Blockchain, Artificial Intelligence, Machine Learning etc. 
 - 📫 Meu contato / My contact: juliana4braga@gmail.com
 
-<div align="center">
-  <a href="https://github.com/JulianaBraga">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JulianaBraga&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaBraga&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/julianabbraga/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
